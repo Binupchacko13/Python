@@ -10,3 +10,4 @@ Assignment4:  Task1:  File with Exception handling
               Task2:  Appending text into file
 Assignment5:  Task1:  Dictionary search
               Task2:  Extract list and reverse it
+Assignment6:  Calculator using tkinter
